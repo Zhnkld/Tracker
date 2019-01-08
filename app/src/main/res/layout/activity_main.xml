@@ -48,12 +48,5 @@
         android:padding="@dimen/padding_small"
         tools:listitem="@layout/item" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="20dp"
-        android:text="Summa"
-        android:background="@color/red"
-        android:id="@+id/sum_btn"
-        />
 
 </LinearLayout>
